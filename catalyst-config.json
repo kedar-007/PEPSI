@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "pepsi_ksa_function",
+		"stack": "node18",
+		"type": "advancedio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}
